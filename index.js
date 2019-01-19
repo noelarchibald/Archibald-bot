@@ -26,8 +26,4 @@ client . sur ( ' message ' , message  => {
 	m + =  ' je suis en compagnie de $ {message.guild.members.size} membres ' ;
 	m + =  ' je suis présent dans $ {client.guild.size} serveurs \ n ' ;
 
-
-
-client . login NTM2MjIzNzA5NzI0MTQ3NzM4.DyTl3Q.WQs7LK4KXW-nQmCGJq43TiNn2VG
-
 });
