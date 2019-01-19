@@ -21,7 +21,7 @@ console.log("Commande effectué");
 }
 
 if (message.content === prefix + "créateur"){
-message.reply(" Ce bot a été crée par Noel Archibald AKA Milian");
+message.reply(" Ce bot a été crée par Noel Archibald aka  Milian");
 console.log("Commande effectué");
 }
 });
