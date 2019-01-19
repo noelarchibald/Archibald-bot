@@ -8,7 +8,7 @@ bot.user.setGame("Command: :help);
 console.log("connected");
 });
 
-bot.login(" NTM2MjIzNzA5NzI0MTQ3NzM4.DyTl3Q.WQs7LK4KXW-3TiNn2VGnQmCGJq4 ");
+bot.login("79ow94lMVluoaEc56JI4HSaqGHyrumpV");
 
 bot.on('message', message => {
 if (message.content === prefix + "help"){
