@@ -25,7 +25,7 @@ client . sur ( ' message ' , message  => {
 	m + =  ' Il n'y a actuellement $ {message.guild.channels.size} channels sur ce serveurs \ n ' ;
 	m + =  ' je suis en compagnie de $ {message.guild.members.size} membres ' ;
 	m + =  ' je suis présent dans $ {client.guild.size} serveurs \ n ' ;
-	message . auteur . sendMessage (m). catch ( console . log );
+
 }
 });
 
