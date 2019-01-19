@@ -1,4 +1,4 @@
-const  Discord  =  require ( " discord.js " );
+;
  client  const =  new  Discord.Client ();
 
 const  token  =  " MjUwMDA1MDI3MTUyNzIzOTY5.CxOi3g.T12XrjS8QW6qjTG6qwkIODRUNhI " ;
@@ -26,7 +26,8 @@ client . sur ( ' message ' , message  => {
 	m + =  ' je suis en compagnie de $ {message.guild.members.size} membres ' ;
 	m + =  ' je suis présent dans $ {client.guild.size} serveurs \ n ' ;
 
+
+
+client . login NTM2MjIzNzA5NzI0MTQ3NzM4.DyTl3Q.WQs7LK4KXW-nQmCGJq43TiNn2VG
 }
 });
-
-client . login NTM2MjIzNzA5NzI0MTQ3NzM4.DyTl3Q.WQs7LK4KXW-3TiNn2VGnQmCGJq4
